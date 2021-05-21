@@ -1,4 +1,4 @@
 gym==0.17.2
 pybullet @ git+https://github.com/Trojanku/bullet3.git@modify_paths
-tensorflow==1.15.2
+tensorflow==2.5.0
 mpi4py==3.0.3
